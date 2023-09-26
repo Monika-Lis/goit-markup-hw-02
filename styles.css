@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+footer {
+  background-color: #2e2f42;
+}
